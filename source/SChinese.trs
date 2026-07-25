@@ -419,7 +419,7 @@ Finding Barry Adama
 &23 What was that device you said you needed, again?
 &23 你说需要的那个装置叫什么来着？
 &82 It's called a Carbon Ray stabilizer.
-&82 叫碳射线稳定器（Carbon Ray）。
+&82 叫碳射线稳定器(Carbon Ray)。
 &24 Oh, right.
 &24 哦，对。
 &25 Wouldn't know where to find one of those.
@@ -4069,7 +4069,7 @@ The address for District 6 Apt is 3384, Hollister Drive.
 Apt. Room
 房号
 Matthius is supposed to be in Room 4-E.
-马蒂斯（Matthius）应该住在4-E房。
+马蒂斯(Matthius)应该住在4-E房。
 Kane set the rendezvous point for the roof of the Hibiscus Highrise building--That's where I was earlier, at Matthius' apartment. ETA in five minutes.
 凯恩把集合点定在木槿大厦（Hibiscus Highrise）楼顶——我之前去过那儿，就在马蒂斯（Matthius）的公寓。预计五分钟后到。
 According to Kane, who got it from Matthius, the address to the local Boryokudan's HQ is 4388 Brookview Avenue.
@@ -4367,11 +4367,11 @@ News 3215
 Entry 1
 条目1
 NAME: Matthius Howard 
-姓名：马蒂斯·霍华德(Howard) 
+姓名：Matthius Howard 
 AGE: 35 
 年龄：35 
 RESIDENCE: Hibiscus Highrise
-住址：木槿大厦(Hibiscus)
+住址：Hibiscus Highrise
 CALL #: n/a 
 电话号：无 
 JOB: PH Engineer 
@@ -4379,35 +4379,35 @@ JOB: PH Engineer
 &563 Hibiscus Highrise... I have no clue where that is. I should probably look it up as well.
 &563 木槿大厦……我完全不知道那在哪。也该顺便查一下。
 NAME: Gerard Branier 
-姓名：杰拉德·布拉尼尔(Branier) 
+姓名：Gerard Branier 
 AGE: 36 
 年龄：36 
 RESIDENCE: District 4 Apt
-住址：4区公寓(District 4 Apt)
+住址：District 4 Apt
 JOB: History Teacher 
 职业：历史教师 
 NAME: Paul Erickson 
-姓名：保罗·埃里克森(Erickson) 
+姓名：Paul Erickson 
 AGE: 40 
 年龄：40 
 RESIDENCE: District 6 Apt
-住址：6区公寓(District 6 Apt)
+住址：District 6 Apt
 CALL #: 1597823
 电话号：1597823
 JOB: Freighter Pilot
 职业：货船飞行员
 NAME: Winston Lucas 
-姓名：温斯顿·卢卡斯(Lucas) 
+姓名：Winston Lucas 
 AGE: 32 (DECEASED)
 年龄：32（已故）
 EMPLOYER: Boryokudan.
-雇主：暴力团（Boryokudan）。
+雇主：暴力团(Boryokudan)。
 RESIDENCE: n/a
 住址：无
 BARRACUS FILE 23388-EC37
 巴拉库斯档案 23388-EC37
 Hibiscus Highrise
-木槿大厦（Hibiscus Highrise）
+木槿大厦(Hibiscus Highrise)
 DISTRICT 7
 第7区
 CALL #: n/a
@@ -4423,7 +4423,7 @@ Light Serial Cargo Ship
 SERIAL #: 32635
 序列号：32635
 OWNER: Paul Erickson
-所有者：保罗·埃里克森（Paul Erickson）
+所有者：Paul Erickson
 CAPACITY: 2,000,000 KG
 载重：2,000,000 KG
 BARRACUS FILE 19343-EAS73
@@ -4473,9 +4473,9 @@ BARRACUS FILE 12535-EA77
 District 6 is a primarily residential zone, mostly populated by miners who work on the outskirts of town.
 第6区主要是住宅区，居民大多是在城郊工作的矿工。
 Kudan
-暴团（Kudan）
+暴团(Kudan)
 Boryokudan -- file missing.
-暴力团（Boryokudan）——档案缺失。
+暴力团(Boryokudan)：档案缺失
 Because of the lack of an authoritative force in the new worlds, crime and piracy rose dramatically in the colonies. Standard police methods failed, so rehabilitation centers were introduced. Criminals were sent in and then sent back out, as new police officers or law-abiding citizens.
 由于新世界缺乏有效的权威力量，各殖民地的犯罪与海盗活动急剧上升。常规警务手段失效，于是康复中心应运而生。罪犯被送进去，再被放出来，成为新的警官或守法公民。
 Barracus is the gas giant discovered in (2157) and settled for its valuable commodity of elements that compose basic engine fuel. Its main cities are Pittsburg, Harrisburg, Cleveland, and Charleston.
@@ -4495,7 +4495,7 @@ Pleaidas System (settled 2166) is composed of two planets: Lai, and Colony 3. It
 Lai (colonized 2166) is used as a drilling planet. The majority of manufacturing space parts takes place underground, safe from the sub-zero temperatures.
 莱伊（2166年殖民）是一颗钻探行星。大部分太空零件的制造在地下进行，以避开零下的严寒。
 howard
-霍华德（howard）
+霍华德(howard)
 Gemini War (2216-2219): Established Gemini independent from Taurus and Pleaidas. Initial Cause: Assassination of Silus Branier (union leader). The war gradually moved from an occupation of Gemini territories into insurgent bombings on Taurus planets. Results: Gemini Independence and the establishment of a free government.
 双子星战争（2216-2219）：使双子星系脱离金牛星系与普利艾达斯，赢得独立。起因：工会领袖赛勒斯·布拉尼尔（Silus Branier）遇刺。战争最初是对双子星领土的占领，逐渐演变为对金牛星系各行星的叛乱式轰炸。结果：双子星独立，自由政府得以建立。
 Harmony was settled (2157) along with Barracus as the major planets in the Gemini system. Politically, it is the center of Gemini, but not economically. It currently houses the majority of all Gemini bureauocracy.
@@ -4623,7 +4623,7 @@ JOB: PH Engineer
 CALL #: 
 呼叫号： 
 NAME: Barry Adama 
-姓名：巴里·阿达玛(Adama) 
+姓名：Barry Adama 
 AGE: 48 
 年龄：48 
 ROOM: 4A
@@ -4773,7 +4773,7 @@ The ports are shut off from the main station, so the juice could not have been r
 &628 I've only got 8 bullets left. I can't risk a firefight.
 &628 我只剩8发子弹了。冒不起交火的险。
 NAME: Gerard Branier [AGE: 31 [CREDENTIALS: Teaching Doctorate [EMIGRATION STATUS: Revoked
-姓名：杰拉德·布拉尼尔 [年龄：31 [资历：教学博士学位 [移民身份：已撤销
+姓名：Gerard Branier [年龄：31 [资历：教学博士学位 [移民身份：已撤销
 &630 One of the few items I have left from my old life. They were overdue to break, so I'm not worried.
 &630 这是我旧日生活里所剩无几的物件之一。反正早该坏了，我不担心。
 &631 According to this, it should help the victim regain composure after a juice withdrawal.
@@ -5301,11 +5301,11 @@ HAWKEYE 运输货船
 Serial #: 32635
 序列号：32635
 Licensed To: Channel Transport Inc
-持照方：海峡运输公司（Channel Transport Inc）
+持照方：海峡运输公司
 WEIGHT: 2,000,000 KG
 重量：2,000,000 千克
 ENGINE TYPE: Carbon-Sulfite
-引擎类型：碳-亚硫酸盐（Carbon-Sulfite）
+引擎类型：Carbon-Sulfite
 &736 Mr. Erickson, can you hear me?
 &736 埃里克森先生，能听见我吗？
 &737 What was the password again?
@@ -5591,7 +5591,7 @@ LOG OUT
 ?
 ?
 NAME: Matthius Howard
-姓名：马蒂斯·霍华德(Howard)
+姓名：Matthius Howard
 AGE: 36
 年龄：36
 RESIDENCE: District 7
