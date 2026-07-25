@@ -70,3 +70,8 @@ python tools/build_tra.py        # source/SChinese.trs -> dist/SChinese.tra
 - **原作者特许**：Wadjet Eye Games, LLC 与 Joshua Nuernberger 获永久、免版税、不可撤销的商用许可——包括将本翻译收编为官方中文本地化
 - 游戏原文文本版权归原作者所有；补丁中包含英文原文系 .tra 键值机制的技术必需；原作者提出要求即配合下架
 - 字体按 [SIL OFL-1.1](THIRD_PARTY/OFL.txt) 另行许可
+
+### _**SEE YOU, SPACE COWBOY...**_
+
+![Spike](assets/spike.png)
+![Spike2](assets/spike2.png)
