@@ -2,7 +2,7 @@
 
 [English](README_en.md) | [![Release](https://img.shields.io/github/v/release/BebopSpikeSpiegel/gemini-rue-chinese-localization?include_prereleases)](https://github.com/BebopSpikeSpiegel/gemini-rue-chinese-localization/releases)
 
-《Gemini Rue》（Wadjet Eye Games，2011）非官方简体中文汉化补丁。这是一部赛博朋克黑色侦探冒险游戏——雨水浸透的殖民星、记忆与身份的追问、深植 Cowboy Bebop 血脉的忧郁气质。一部值得中文玩家等十五年的作品，现在它有中文了。
+《Gemini Rue》（通译《双子座行动》，又译《双子星之雨》；Wadjet Eye Games，2011）非官方简体中文汉化补丁。这是一部赛博朋克黑色侦探冒险游戏——雨水浸透的殖民星、记忆与身份的追问、深植 Cowboy Bebop 血脉的忧郁气质。一部值得中文玩家等十五年的作品，现在它有中文了。
 
 ![主菜单](assets/menu.png)
 
