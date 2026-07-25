@@ -4225,7 +4225,7 @@ Dis. 7 Apt
 3960476
 3960476
 Paul
-保罗
+Paul
 1597823
 1597823
 1703532
@@ -4257,7 +4257,7 @@ Cargo #
 Fighter #
 战机编号
 Hibiscus
-木槿
+Hibiscus
 Highrise
 Highrise
 Two matches found
@@ -4265,39 +4265,39 @@ Two matches found
 4390
 4390
 Brookview
-溪景
+Brookview
 District 6 Apt
 6区公寓
 Matt
-马蒂斯
+Matt
 Howard
 Howard
 M. Howard
-马蒂斯·霍华德
+M. Howard
 M Howard
 M Howard
 Branier
 Branier
 Gerard
-杰拉德
+Gerard
 G. Branier
-杰拉德·布拉尼尔
+G. Branier
 P Erickson
 P Erickson
 P. Erickson
-保罗·埃里克森
+P. Erickson
 Lucas
 Lucas
 W. Lucas
-温斯顿·卢卡斯
+W. Lucas
 No matches found.
 未找到匹配。
 &562 Hmm... nothing's showing up. That's odd...
 &562 嗯……什么都没查到。奇怪……
 Carbon Ray
-碳射线
+Carbon Ray
 Med Station
-医疗站
+Med Station
 Medical Station
 Medical Station
 Medical
@@ -4305,47 +4305,47 @@ Medical
 Two matches
 两条匹配
 kudan
-暴力团
+kudan
 ERROR: Unauthorized file--ACCESS DENIED
 错误：未授权文件——拒绝访问
 Center
-中心
+Center
 rehab
-康复
+rehab
 Gemini
-双子星
+Gemini
 Gemini War
-双子星战争
+Gemini War
 Five matches found
 找到五条匹配
 Colony
-殖民地
+Colony
 Colony 2
-二号殖民地
+Colony 2
 Colony 3
-三号殖民地
+Colony 3
 Taurus
-金牛
+Taurus
 New Earth
-新地球
+New Earth
 New Jupiter
-新木星
+New Jupiter
 Three matches found
 找到三条匹配
 Earth
-地球
+Earth
 Jupiter
-木星
+Jupiter
 Plea
-普利
+Plea
 Pleaidas
-普利艾达斯
+Pleaidas
 Lai
-莱伊
+Lai
 Weather
-气象
+Weather
 Tower
-塔
+Tower
 WT
 WT
 War
@@ -4355,11 +4355,11 @@ District
 Too many results
 结果过多
 P
-匹
+P
 Carbon
-碳
+Carbon
 Ray
-射线
+Ray
 Warehouse
 仓库
 News 3215
@@ -4367,11 +4367,11 @@ News 3215
 Entry 1
 条目1
 NAME: Matthius Howard 
-姓名：马蒂斯·霍华德 
+姓名：马蒂斯·霍华德(Howard) 
 AGE: 35 
 年龄：35 
 RESIDENCE: Hibiscus Highrise
-住址：木槿大厦
+住址：木槿大厦(Hibiscus)
 CALL #: n/a 
 电话号：无 
 JOB: PH Engineer 
@@ -4379,25 +4379,25 @@ JOB: PH Engineer
 &563 Hibiscus Highrise... I have no clue where that is. I should probably look it up as well.
 &563 木槿大厦……我完全不知道那在哪。也该顺便查一下。
 NAME: Gerard Branier 
-姓名：杰拉德·布拉尼尔 
+姓名：杰拉德·布拉尼尔(Branier) 
 AGE: 36 
 年龄：36 
 RESIDENCE: District 4 Apt
-住址：4区公寓
+住址：4区公寓(District 4 Apt)
 JOB: History Teacher 
 职业：历史教师 
 NAME: Paul Erickson 
-姓名：保罗·埃里克森 
+姓名：保罗·埃里克森(Erickson) 
 AGE: 40 
 年龄：40 
 RESIDENCE: District 6 Apt
-住址：6区公寓
+住址：6区公寓(District 6 Apt)
 CALL #: 1597823
 电话号：1597823
 JOB: Freighter Pilot
 职业：货船飞行员
 NAME: Winston Lucas 
-姓名：温斯顿·卢卡斯 
+姓名：温斯顿·卢卡斯(Lucas) 
 AGE: 32 (DECEASED)
 年龄：32（已故）
 EMPLOYER: Boryokudan.
@@ -4457,7 +4457,7 @@ Carbon Ray Stabilizer: An expensive and rare device used to mend thin sheets of 
 BARRACUS FILE 172388-DH37
 巴拉库斯档案 172388-DH37
 District 7 Med Station
-第7区医疗站
+第7区医疗站(Med Station)
 3386 Hollister Drive
 霍利斯特路3386号
 Juice is the slang term for a banned hallunicatory drug, since reintroduced in the New World, and now has become ever more popular among drug-users across the galaxies. Low grade juice gives users a temporary high which in some cases renders the user unconscious. On the other hand, high grade juice has been known to be an adrenaline booster.
@@ -4623,7 +4623,7 @@ JOB: PH Engineer
 CALL #: 
 呼叫号： 
 NAME: Barry Adama 
-姓名：巴里·阿达玛 
+姓名：巴里·阿达玛(Adama) 
 AGE: 48 
 年龄：48 
 ROOM: 4A
@@ -5591,7 +5591,7 @@ LOG OUT
 ?
 ?
 NAME: Matthius Howard
-姓名：马蒂斯·霍华德
+姓名：马蒂斯·霍华德(Howard)
 AGE: 36
 年龄：36
 RESIDENCE: District 7
