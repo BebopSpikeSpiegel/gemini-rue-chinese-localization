@@ -48,7 +48,7 @@ This patch was produced with an **AI bulk translation + human-in-charge** hybrid
 
 **Tools & models**: Anthropic Claude Code. Reverse engineering, tooling, orchestration and QA by Claude Fable 5; the translation itself by **144 Claude Opus 4.8 agents** — the script split into 72 chunks, each passing a translate → independent-review two-stage pipeline, governed by a translation bible (full plot with spoiler-discipline rules for the twist, per-character voice specs, a locked glossary, and hard mechanical constraints such as voice-sync markers). Followed by programmatic per-line validation (markers / line breaks / format tokens) and a global consistency sweep (zero glossary drift, duplicate-take alignment).
 
-**What the human (Spike) did**: initiated and directed the project; made every naming and style decision across two checkpoints (transliteration scheme, Latin codenames, terminology, UI labels — all human calls); native-speaker line-by-line review and feedback; on-device playtesting and bug reports; final editorial responsibility.
+**What did I do**: initiated and directed the project; made every naming and style decision across two checkpoints (transliteration scheme, Latin codenames, terminology, UI labels — all human calls); native-speaker line-by-line review and feedback; on-device playtesting and bug reports; final editorial responsibility.
 
 **What the AI did**: reverse-engineered the TRA binary format and wrote the compiler; validated the font-replacement approach; drafted the story bible and glossary; produced and cross-reviewed the 5,973-line translation; ran mechanical validation and consistency sweeps; excavated and translated the achievement strings from game data.
 
