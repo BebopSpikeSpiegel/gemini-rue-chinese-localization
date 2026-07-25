@@ -31,7 +31,7 @@ An unofficial Simplified Chinese localization for *Gemini Rue* (Wadjet Eye Games
 
 ## Known limitations
 
-- List-control items (terminal search results, achievements list) are engine-level AGS ListBoxes that bypass translation lookup and remain English (same in the official German/Polish translations)
+- List-control items (terminal search results, achievements list, **communicator notes/names/phone lists**) are engine-level AGS ListBoxes that bypass translation lookup and remain English (same in the official German/Polish translations; their translations are already present in the source file and would activate automatically if the engine ever supports it)
 - Voice acting remains the English original (text-only localization)
 - Terminal search: **drag Chinese notes** from the communicator into the search box (works since v0.9.1); typing still supports some English keywords (`Highrise`, `Howard`, …) as a fallback
 
