@@ -1,0 +1,54 @@
+name: Release
+
+on:
+  push:
+    tags: ["v*"]
+
+permissions:
+  contents: write
+
+env:
+  FUSION_TAG: "2026.07.20"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build SChinese.tra from TRS source
+        run: python tools/build_tra.py dist/SChinese.tra
+
+      - name: Download pinned Fusion Pixel Font release
+        run: |
+          base="https://github.com/TakWolf/fusion-pixel-font/releases/download/${FUSION_TAG}"
+          curl -fsSL -o f8.zip  "${base}/fusion-pixel-font-8px-proportional-ttf-v${FUSION_TAG}.zip"
+          curl -fsSL -o f10.zip "${base}/fusion-pixel-font-10px-proportional-ttf-v${FUSION_TAG}.zip"
+          unzip -o f8.zip  -d f8
+          unzip -o f10.zip -d f10
+
+      - name: Assemble patch zip
+        run: |
+          mkdir -p dist/pkg
+          cp dist/SChinese.tra                                   dist/pkg/
+          cp f8/fusion-pixel-8px-proportional-zh_hans.ttf        dist/pkg/agsfnt3.ttf
+          cp f8/fusion-pixel-8px-proportional-zh_hans.ttf        dist/pkg/agsfnt4.ttf
+          cp f10/fusion-pixel-10px-proportional-zh_hans.ttf      dist/pkg/agsfnt5.ttf
+          cp f10/fusion-pixel-10px-proportional-zh_hans.ttf      dist/pkg/agsfnt6.ttf
+          cp packaging/INSTALL.txt                               dist/pkg/安装说明-INSTALL.txt
+          cp LICENSE                                             dist/pkg/LICENSE.txt
+          cp f8/OFL.txt                                          dist/pkg/OFL-font-license.txt
+          cd dist/pkg && zip -r "../GeminiRue-SChinese-${GITHUB_REF_NAME}.zip" .
+          unzip -l "../dist/GeminiRue-SChinese-${GITHUB_REF_NAME}.zip" || true
+          ls -l ..
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: dist/GeminiRue-SChinese-*.zip
+          prerelease: ${{ contains(github.ref_name, 'beta') }}
+          generate_release_notes: true

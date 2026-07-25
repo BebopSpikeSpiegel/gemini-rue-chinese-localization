@@ -1,0 +1,37 @@
+Gemini Rue 简体中文汉化补丁 / Simplified Chinese Localization Patch
+====================================================================
+
+安装 (Install)
+--------------
+1. 把本压缩包内的 5 个游戏文件全部解压到游戏根目录
+   (Steam\steamapps\common\Gemini Rue\, 即 Gemini Rue.exe 旁边):
+     SChinese.tra
+     agsfnt3.ttf  agsfnt4.ttf  agsfnt5.ttf  agsfnt6.ttf
+2. 打开游戏目录下的 acsetup.cfg, 在 [language] 段写入:
+     translation=SChinese
+   (或把 .config 里的 translation=German,Polish 改成
+    translation=German,Polish,SChinese, 然后在 winsetup.exe 里选 SChinese)
+3. 启动游戏。
+
+   Extract the 5 game files above into the game root next to
+   "Gemini Rue.exe", set "translation=SChinese" under [language] in
+   acsetup.cfg (or add SChinese to the .config translation list and pick
+   it in winsetup.exe), then launch the game.
+
+适用版本 (Supported version)
+----------------------------
+Steam 2026 (AGS 3.6.1) 重制构建。旧 GOG/实体版不支持。
+Steam 2026 rebuild (AGS 3.6.1). Older GOG/retail builds unsupported.
+
+卸载 (Uninstall)
+----------------
+删除上述 5 个文件, 并把 acsetup.cfg 的 translation= 改回空。存档不受影响。
+Delete the 5 files and clear translation= in acsetup.cfg. Saves unaffected.
+
+项目主页 (Project page)
+-----------------------
+https://github.com/BebopSpikeSpiegel/gemini-rue-chinese-localization
+
+翻译: Spike, 采用 AI 批量翻译 + 人工把关的混合工作流
+(详见项目主页 AI 使用声明)。字体: Fusion Pixel Font (SIL OFL-1.1)。
+许可: 见 LICENSE (非商用; Wadjet Eye Games / Joshua Nuernberger 获商用特许)。

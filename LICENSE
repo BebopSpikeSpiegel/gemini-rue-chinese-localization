@@ -1,0 +1,84 @@
+Gemini Rue Simplified Chinese Localization Patch License
+(Non-Commercial Distribution License with Original-Author Commercial Grant)
+Gemini Rue 简体中文汉化补丁许可证
+（非商业分发许可，含原作者商用特许）
+
+Copyright (c) 2026 Spike
+版权所有 (c) 2026 Spike
+
+The English text governs; the Chinese text is provided for reference.
+以英文文本为准，中文对照仅供参考。
+
+=============================== English ===============================
+
+1. Grant
+   Anyone may copy, distribute and display this patch (including the
+   translation text source/SChinese.trs, the built SChinese.tra, and all
+   original content of this repository) free of charge, and may modify it
+   and distribute modified versions, provided this license and the
+   attribution (Spike) are retained.
+
+2. Non-commercial restriction
+   Except for the grantees in Section 3, this patch and derivatives of it
+   may not be used for any commercial purpose, including but not limited
+   to: selling it, bundling it with paid products, placing it behind a
+   paywall, or using it in for-profit services.
+
+3. Original-author commercial grant
+   Wadjet Eye Games, LLC and Joshua Nuernberger (the copyright holders
+   and original author of Gemini Rue) are granted a perpetual, worldwide,
+   royalty-free, irrevocable license to use this patch and derivatives of
+   it for any purpose — including commercial use, such as adopting this
+   translation (directly or in modified form) as the game's official
+   Chinese localization. Attribution is not required under this grant,
+   though crediting "Spike" would be appreciated.
+
+4. Original-work notice
+   All rights to Gemini Rue and its English text remain with their
+   copyright holders. The English source strings contained in this patch
+   are a technical necessity of the AGS engine's .tra key-value
+   translation mechanism and constitute no claim over the original work.
+   Content will be removed upon request of the copyright holders.
+
+5. Third-party content
+   The font files (Fusion Pixel Font, by TakWolf et al.) are licensed
+   separately under the SIL Open Font License 1.1 (see
+   THIRD_PARTY/OFL.txt) and are not governed by this license.
+
+6. Disclaimer
+   This patch is provided "as is", without warranty of any kind, express
+   or implied. In no event shall the author be liable for any damages
+   arising from its use.
+
+================================ 中文 ================================
+
+1. 授权范围
+   任何个人或组织均可免费复制、分发、展示本补丁（包括翻译文本
+   source/SChinese.trs、构建产物 SChinese.tra 及本仓库全部原创内容），
+   并可在保留本许可证与署名（Spike）的前提下修改并分发
+   修改后的版本。
+
+2. 非商业限制
+   除第 3 条特许方外，不得将本补丁或其修改版本用于任何商业用途，
+   包括但不限于：出售、捆绑收费产品、置于付费墙后、用于盈利性服务。
+
+3. 原作者商用特许
+   Wadjet Eye Games, LLC 与 Joshua Nuernberger（《Gemini Rue》的
+   版权持有者与原作者）获得永久、全球、免版税、不可撤销的许可，
+   可将本补丁及其修改版本用于任何用途——包括商业用途，例如将本翻译
+   （直接或经修改后）收编为游戏的官方中文本地化。此特许不要求署名，
+   但若署名"Spike"，译者不胜感激。
+
+4. 原作内容声明
+   《Gemini Rue》游戏本体及其英文文本的一切权利归其版权持有者所有。
+   本补丁中包含的英文原文字符串系 AGS 引擎 .tra 键值翻译机制的技术
+   必需，不构成对原作版权的主张。版权持有者如提出要求，本仓库将
+   配合移除相关内容。
+
+5. 第三方内容
+   字体文件（Fusion Pixel Font，作者 TakWolf 等）按 SIL Open Font
+   License 1.1 独立授权，见 THIRD_PARTY/OFL.txt，不受本许可证约束。
+
+6. 免责声明
+   本补丁按"现状"提供，不含任何明示或默示的担保。在任何情况下，
+   作者均不对因使用本补丁产生的任何损害承担责任。

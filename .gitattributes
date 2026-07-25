@@ -1,0 +1,4 @@
+# TRS pairs are whitespace-significant (trailing spaces are part of strings).
+# Keep LF endings and never let tooling normalize them.
+source/SChinese.trs text eol=lf
+* -text
