@@ -3997,9 +3997,9 @@ AUTOSAVE
 HELP:[[Left-Click: (Walk/Perform Action in Verb Interface)[Right-Click: (Bring up Verb Interface/Look at Inventory Item)[Double-Click: (Perform last action)[[ESCAPE: (Menu/Skip-To-Destination)[[F1: (Help) [F5: (Save)[F7: (Load)[F9: (Restart)[F10: (Load Autosave)[Ctrl-Q: (Quit Game)
 帮助：[[左键点击：（行走／在动作菜单中执行动作）[右键点击：（调出动作菜单／查看物品栏物品）[双击：（重复上一个动作）[[ESCAPE：（菜单／直接前往目的地）[[F1：（帮助） [F5：（存档）[F7：（读档）[F9：（重新开始）[F10：（读取自动存档）[Ctrl-Q：（退出游戏）
 Portraits off
-关闭头像
+Portraits off
 Portraits on
-开启头像
+Portraits on
 Mouse mode = walk to
 鼠标模式 = 行走
 Not walk to mode.
@@ -4011,11 +4011,11 @@ Talking to yourself is a sign of madness!
 Text only
 仅文字
 Portraits: Off
-头像：关
+Portraits: Off
 Portraits: On
-头像：开
+Portraits: On
 Combat: Med
-战斗：中
+Combat: Med
 Unlocked. TEST COMPLETE.
 已解锁。测试完成。
 Locked.
@@ -5529,7 +5529,7 @@ Commentary mode only available in the full version.
 &773 I don't need to give that to him.
 &773 我没必要给他那个。
 Combat: Easy
-战斗：简单
+Combat: Easy
 Combat difficulty changed to EASY
 战斗难度已改为“简单”。
 Combat difficulty changed to MEDIUM
@@ -5635,7 +5635,7 @@ AZRIEL
 Investigation
 Investigation
 Weather Tower
-Weather Tower
+气象塔
 Game Start
 Game Start
 DELTA-SIX
