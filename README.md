@@ -73,5 +73,5 @@ python tools/build_tra.py        # source/SChinese.trs -> dist/SChinese.tra
 
 ### _**SEE YOU, SPACE COWBOY...**_
 
-![Spike](assets/spike.jng)
-![Spike2](assets/spike2.jng)
+![Spike](assets/spike.jpg)
+![Spike2](assets/spike2.jpg)
