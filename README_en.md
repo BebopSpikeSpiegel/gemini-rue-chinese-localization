@@ -70,3 +70,8 @@ See [LICENSE](LICENSE). In short:
 - **Original-author grant**: Wadjet Eye Games, LLC and Joshua Nuernberger receive a perpetual, royalty-free, irrevocable license for any commercial use — including adopting this translation as the official Chinese localization
 - The original game text remains the property of its copyright holders; the English source strings included here are a technical necessity of the .tra key-value mechanism; takedown honored on request
 - Fonts are separately licensed under the [SIL OFL-1.1](THIRD_PARTY/OFL.txt)
+
+### _**SEE YOU, SPACE COWBOY...**_
+
+![Spike](assets/spike.png)
+![Spike2](assets/spike2.png)
