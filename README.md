@@ -15,10 +15,11 @@
 
 1. 到 [Releases](https://github.com/BebopSpikeSpiegel/gemini-rue-chinese-localization/releases) 下载最新的 `GeminiRue-SChinese-*.zip`
 2. 全部解压到游戏根目录（`Steam\steamapps\common\Gemini Rue\`，即 `Gemini Rue.exe` 所在目录），共 5 个游戏文件：`SChinese.tra` + `agsfnt3.ttf`～`agsfnt6.ttf`
-3. 启用中文（任选其一）：
-   - 打开游戏目录下 `acsetup.cfg`，在 `[language]` 段写入 `translation=SChinese`
-   - 或将 `.config` 中 `translation=German,Polish` 改为 `translation=German,Polish,SChinese`，然后在 `winsetup.exe` 的语言下拉框中选择 SChinese
-4. 启动游戏
+3. 用记事本打开游戏目录下的 `.config` 文件，把 `translation=German,Polish` 改成 `translation=German,Polish,SChinese`，保存（这一步是让语言出现在设置菜单里）
+4. 在 Steam 点"开始游戏"，启动弹窗里选 **Settings / 游戏设置**（也可以直接双击游戏目录里的 `winsetup.exe`），在语言下拉框选 **SChinese**，保存
+5. 启动游戏
+
+> 备选方案：跳过第 3、4 步，直接用记事本打开游戏目录下 `acsetup.cfg`，在 `[language]` 段写入 `translation=SChinese`，效果相同。
 
 **卸载**：删除上述 5 个文件，并将 `acsetup.cfg` 的 `translation=` 改回空值。不影响存档。
 

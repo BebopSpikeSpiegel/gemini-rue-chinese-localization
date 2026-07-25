@@ -7,16 +7,24 @@ Gemini Rue 简体中文汉化补丁 / Simplified Chinese Localization Patch
    (Steam\steamapps\common\Gemini Rue\, 即 Gemini Rue.exe 旁边):
      SChinese.tra
      agsfnt3.ttf  agsfnt4.ttf  agsfnt5.ttf  agsfnt6.ttf
-2. 打开游戏目录下的 acsetup.cfg, 在 [language] 段写入:
-     translation=SChinese
-   (或把 .config 里的 translation=German,Polish 改成
-    translation=German,Polish,SChinese, 然后在 winsetup.exe 里选 SChinese)
-3. 启动游戏。
+2. 用记事本打开游戏目录下的 .config 文件, 把
+     translation=German,Polish
+   改成
+     translation=German,Polish,SChinese
+   保存。(这一步让语言出现在设置菜单里)
+3. 在 Steam 点"开始游戏", 启动弹窗里选 Settings / 游戏设置
+   (或直接双击游戏目录里的 winsetup.exe),
+   在语言下拉框选 SChinese, 保存。
+4. 启动游戏, 即为中文。
 
-   Extract the 5 game files above into the game root next to
-   "Gemini Rue.exe", set "translation=SChinese" under [language] in
-   acsetup.cfg (or add SChinese to the .config translation list and pick
-   it in winsetup.exe), then launch the game.
+   备选: 跳过第 2-3 步, 直接用记事本打开 acsetup.cfg,
+   在 [language] 段写入 translation=SChinese, 效果相同。
+
+   English: extract the 5 files next to "Gemini Rue.exe"; add SChinese
+   to the translation= list in ".config"; hit Play in Steam and choose
+   Settings (= winsetup.exe), pick SChinese in the language dropdown,
+   save, then launch. (Or just set translation=SChinese under
+   [language] in acsetup.cfg.)
 
 适用版本 (Supported version)
 ----------------------------
@@ -25,8 +33,8 @@ Steam 2026 rebuild (AGS 3.6.1). Older GOG/retail builds unsupported.
 
 卸载 (Uninstall)
 ----------------
-删除上述 5 个文件, 并把 acsetup.cfg 的 translation= 改回空。存档不受影响。
-Delete the 5 files and clear translation= in acsetup.cfg. Saves unaffected.
+删除上述 5 个文件, 并把语言设置改回原样。存档不受影响。
+Delete the 5 files and revert the language setting. Saves unaffected.
 
 项目主页 (Project page)
 -----------------------

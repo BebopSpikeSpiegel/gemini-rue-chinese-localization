@@ -15,10 +15,11 @@ An unofficial Simplified Chinese localization for *Gemini Rue* (Wadjet Eye Games
 
 1. Download the latest `GeminiRue-SChinese-*.zip` from [Releases](https://github.com/BebopSpikeSpiegel/gemini-rue-chinese-localization/releases)
 2. Extract everything into the game root (`Steam\steamapps\common\Gemini Rue\`, next to `Gemini Rue.exe`) — 5 game files: `SChinese.tra` + `agsfnt3.ttf`–`agsfnt6.ttf`
-3. Enable it (either way):
-   - edit `acsetup.cfg`: under `[language]` set `translation=SChinese`
-   - or change `translation=German,Polish` to `translation=German,Polish,SChinese` in `.config`, then pick SChinese in the `winsetup.exe` language dropdown
-4. Launch the game
+3. Open the `.config` file in the game folder with Notepad and change `translation=German,Polish` to `translation=German,Polish,SChinese` (this makes the language show up in the settings menu)
+4. Hit Play in Steam and choose **Settings** in the launch dialog (or run `winsetup.exe` in the game folder directly), pick **SChinese** in the language dropdown, save
+5. Launch the game
+
+> Alternative: skip steps 3–4 and set `translation=SChinese` under `[language]` in `acsetup.cfg` directly — same effect.
 
 **Uninstall**: delete those 5 files and clear the `translation=` line. Saves are unaffected.
 
