@@ -8,7 +8,7 @@ An unofficial Simplified Chinese localization for *Gemini Rue* (Wadjet Eye Games
 
 ## Supported version
 
-- **Steam release (2026 AGS 3.6.1 rebuild)** — the patch is built and tested against it
+- **Steam release (2026 AGS 3.6.1 rebuild)** — the patch is built against it and **verified with a full playthrough** (v1.0.0)
 - Older GOG / retail builds use a pre-Unicode engine and are **not supported**
 
 ## Installation
