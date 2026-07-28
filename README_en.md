@@ -4,6 +4,8 @@
 
 An unofficial Simplified Chinese localization for *Gemini Rue* (Wadjet Eye Games, 2011) — the rain-soaked cyberpunk noir adventure about memory and identity, with Cowboy Bebop in its DNA. A game Chinese-speaking players have waited fifteen years for. Now it speaks Chinese.
 
+📺 **[Release announcement + first-10-minutes gameplay demo (Bilibili)](https://www.bilibili.com/video/BV1KS3M6wE6x)**
+
 ![Main menu](assets/menu.png)
 
 ## Supported version
